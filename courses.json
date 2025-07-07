@@ -270,5 +270,35 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Linux para Todos",
+    "description": "Desenvolvimento Blockchain",
+    "tags": [
+      "Linux"
+    ],
+    "modules": [
+      {
+        "title": "Semana 1: Introdução ao Linux",
+        "submodules": [
+          {
+            "title": "História e Filosofia do Linux",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Timeline do Linux",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "link",
+                "title": "Documentário Linux",
+                "value": "https://bitcoin.org/en/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
