@@ -1,0 +1,30 @@
+[
+   {
+      "name":"",
+      "description":"",
+      "tags":[
+         
+      ],
+      "modules":[
+         {
+            "title":"",
+            "submodules":[
+               {
+                  "title":"",
+                  "video":"",
+                  "material":[
+                     {
+                        "kind":"",
+                        "value":""
+                     },
+                     {
+                        "kind":"",
+                        "value":""
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+]
