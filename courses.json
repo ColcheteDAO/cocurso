@@ -1,30 +1,224 @@
 [
-   {
-      "name":"",
-      "description":"",
-      "tags":[
-         
-      ],
-      "modules":[
-         {
-            "title":"",
-            "submodules":[
-               {
-                  "title":"",
-                  "video":"",
-                  "material":[
-                     {
-                        "kind":"",
-                        "value":""
-                     },
-                     {
-                        "kind":"",
-                        "value":""
-                     }
-                  ]
-               }
+  {
+    "name": "Bitcoin e Autocustódia",
+    "description": "Domine a tecnologia por trás do Bitcoin e aprenda a proteger seus ativos",
+    "tags": [
+      "Bitcoin"
+    ],
+    "modules": [
+      {
+        "title": "Semana 1: Introdução ao Bitcoin",
+        "submodules": [
+          {
+            "title": "O que é Bitcoin?",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Slides - Introdução ao Bitcoin",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "link",
+                "title": "Artigo - História do Bitcoin",
+                "value": "https://bitcoin.org/en/"
+              }
             ]
-         }
-      ]
-   }
+          },
+          {
+            "title": "História do dinheiro",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "E-book - Evolução do Dinheiro",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "link",
+                "title": "Timeline Interativa",
+                "value": "https://bitcoin.org/en/"
+              }
+            ]
+          },
+          {
+            "title": "Blockchain básico",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Diagrama - Como funciona o Blockchain",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "link",
+                "title": "Simulador Blockchain",
+                "value": "https://bitcoin.org/en/"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Semana 2: Carteiras e Chaves",
+        "submodules": [
+          {
+            "title": "Tipos de carteiras",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Comparativo de Carteiras",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "link",
+                "title": "Lista de Carteiras Recomendadas",
+                "value": "https://bitcoin.org/en/"
+              }
+            ]
+          },
+          {
+            "title": "Chaves públicas e privadas",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Guia - Criptografia Básica",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "link",
+                "title": "Gerador de Chaves (Demo)",
+                "value": "https://bitcoin.org/en/"
+              }
+            ]
+          },
+          {
+            "title": "Criando sua primeira carteira",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Tutorial Passo a Passo",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "markdown",
+                "title": "Checklist de Segurança",
+                "value": "https://github.com/ColcheteDAO/cocurso/README.md"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Semana 3: Autocustódia na Prática",
+        "submodules": [
+          {
+            "title": "Configurando carteira hardware",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Manual - Setup Hardware Wallet",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "link",
+                "title": "Vídeo Complementar",
+                "value": "https://youtu.be/P7Z4iXNiw8Q"
+              }
+            ]
+          },
+          {
+            "title": "Backup e recuperação",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Guia de Backup Seguro",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "markdown",
+                "title": "Template Seed Phrase",
+                "value": "https://github.com/ColcheteDAO/cocurso/README.md"
+              }
+            ]
+          },
+          {
+            "title": "Boas práticas de segurança",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Checklist de Segurança Avançada",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "markdown",
+                "title": "Casos de Uso Reais",
+                "value": "https://bitcoin.org/en/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Semana 4: Transações Bitcoin",
+        "submodules": [
+          {
+            "title": "Como funcionam as transações",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Anatomia de uma Transação",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "link",
+                "title": "Explorer de Blockchain",
+                "value": "https://bitcoin.org/en/"
+              }
+            ]
+          },
+          {
+            "title": "Taxas e confirmações",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "markdown",
+                "title": "Calculadora de Taxas",
+                "value": "https://bitcoin.org/en/"
+              },
+              {
+                "kind": "PDF",
+                "title": "Guia - Otimizando Taxas",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              }
+            ]
+          },
+          {
+            "title": "Enviando seu primeiro Bitcoin",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Tutorial Prático",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "markdown",
+                "title": "Ambiente de Teste",
+                "value": "https://bitcoin.org/en/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 ]
