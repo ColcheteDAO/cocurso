@@ -57,7 +57,6 @@
               }
             ]
           }
-
         ]
       },
       {
@@ -212,7 +211,58 @@
               },
               {
                 "kind": "markdown",
-                "title": "Ambiente de Teste",
+                "title": "Casos de Uso Reais",
+                "value": "https://bitcoin.org/en/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Desenvolvimento Blockchain",
+    "description": "Construa aplicações descentralizadas e smart contracts",
+    "tags": [
+      "Blockchain"
+    ],
+    "modules": [
+      {
+        "title": "Semana 1: Fundamentos de Blockchain",
+        "submodules": [
+          {
+            "title": "Arquitetura Blockchain",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Diagrama de Arquitetura",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "link",
+                "title": "Código Exemplo",
+                "value": "https://bitcoin.org/en/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Semana 2: Introdução ao Solidity",
+        "submodules": [
+          {
+            "title": "Sintaxe Básica do Solidity",
+            "video": "https://youtu.be/P7Z4iXNiw8Q",
+            "material": [
+              {
+                "kind": "PDF",
+                "title": "Cheat Sheet Solidity",
+                "value": "https://raw.githubusercontent.com/ColcheteDAO/workshop/main/DoZeroAoDeploy/DoZeroAoDeploy.pdf"
+              },
+              {
+                "kind": "link",
+                "title": "Remix IDE",
                 "value": "https://bitcoin.org/en/"
               }
             ]
